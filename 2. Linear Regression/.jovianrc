@@ -1,3 +1,7 @@
 {
-  "notebooks": {}
+  "notebooks": {
+    "1.0 Linear Regression.ipynb": {
+      "slug": "d385c3d414664e4cb27cd058f09ae7ad"
+    }
+  }
 }
