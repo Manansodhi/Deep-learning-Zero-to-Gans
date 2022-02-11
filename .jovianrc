@@ -1,3 +1,7 @@
 {
-  "notebooks": {}
+  "notebooks": {
+    "1. PyTorch Basics and Gradient Descent.ipynb": {
+      "slug": "137074a9ded44894afcb019db9f029ae"
+    }
+  }
 }
